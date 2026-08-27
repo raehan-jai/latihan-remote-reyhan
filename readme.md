@@ -1,5 +1,6 @@
 📝 My To-Do List
 TES TES TES TES
+RAKHA BUKHORI
 
 Aplikasi To-Do List sederhana yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
